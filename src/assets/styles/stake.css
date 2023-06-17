@@ -1,0 +1,62 @@
+.stake_root{
+    background-color: #F5F2F6;
+    min-height: 100vh;
+    
+}
+
+.stake_container{
+    width:550px;
+    max-width:550px;
+    margin:0px auto;
+    padding: 20px 0;
+}
+.stake_root .mantine-Accordion-item{
+    background-color: white;
+    padding: 15px 8px;
+    margin-top: 15px;
+    border: none;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.03);
+    border-radius: 8px;
+}
+
+.stake_root .mantine-Accordion-label{
+    font-weight: 700;
+}
+
+.stake_root .mantine-Tabs-tabsList{
+    background-color: white !important;
+    border-bottom: none;
+    padding: 3px !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    border-radius: 5px;
+}
+.stake_root .mantine-Tabs-tab{
+    height: 45px;
+    border-bottom: none;
+    border-radius: 4px;
+    margin: 0;
+    width: 100%;
+    font-weight: 700;
+}
+
+.stake_root .mantine-Tabs-panel{
+    margin-top: 25px;
+}
+
+.stake_container .header{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.stake_container .header h3{
+    color:#36164A;
+    margin-bottom: 10px;
+}
+
+.stake_container .stake_panel .stake_panel_stake {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
