@@ -1,2 +1,3 @@
 import Stake from "./stake/Stake"
-export {Stake}
+import Home from "./home/Home"
+export {Stake, Home}
