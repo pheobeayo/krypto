@@ -8,6 +8,12 @@
     font-family: "GTWalsheimPro" !important;
 }
 
+a,a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+
 @font-face {
     font-family: "GTWalsheimPro";
     font-weight: 900;

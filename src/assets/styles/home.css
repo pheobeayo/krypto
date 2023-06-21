@@ -35,3 +35,14 @@
     font-size: 22px;
     margin: 20px 0;
 }
+.stake-link{
+    /* margin-top: 3rem; */
+    width: 70px;
+    height: auto;
+    padding: 1rem;
+    background-color: #e9340f;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    border-radius: 5px;
+}
