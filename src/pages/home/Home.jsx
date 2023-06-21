@@ -9,7 +9,7 @@ import how_img from "../../assets/svg/Figure.svg";
 import { HiGift, HiShieldCheck } from "react-icons/hi2";
 // import { Link } from "react-router-dom";
 function Home() {
-  const { address, connectMetaMask } = useContext(KryptoContext);
+  const { address, connectMetaMask, disconnectWallet } = useContext(KryptoContext);
 
   return (
     <>
@@ -29,7 +29,7 @@ function Home() {
           </li>
         </ul>
         {
-          !address?<Button onClick={connectMetaMask} color="violet.5">Connect Wallet</Button>:`${address.slice(0, 5)}...${address.slice(38)}`
+          !address?<Button onClick={connectMetaMask} color="violet.5">Connect Wallet</Button>:<button onClick={disconnectWallet} className="wallet-btn">{address.slice(0, 5)}...{address.slice(38)}</button>
         }
         
       </div>
