@@ -1,12 +1,17 @@
-# Krypto-frontend
+# Krypto-staking
 A Defi Staking Application
 
 
 In a typical developing market like Ghana, Nigeria and Kenya, many problems exist, making transactions very difficult. For instance, currency depreciation makes investment unattractive and makes holding foreign currencies impossible. The Prices of goods and services keep doubling and inflation continues to increase. 
+
 A platform which provides a simpler yet rewarding opportunity for many to earn extra income and get good returns on investments. 
+
 Target Audience 
+
 High-income individuals 
+
 Mid-level Career person (middle-income) 
+
 We posited that crypto enthusiasts are the early adopters who will later become brand evangelists. 
 
 
